@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides details on a team project to design and build a
+  health device prototype.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

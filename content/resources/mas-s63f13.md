@@ -2,7 +2,7 @@
 content_type: resource
 description: Detail of the photograph "Tricorder." Original photograph by Trevor H
   on flickr.
-file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/mas-s63-engineering-health-towards-the-tricorder-fall-2013/02586f6bbafae0cd921bd9671531cbf0_mas-s63f13.jpg
+file: /media/courses/mas-s63-engineering-health-towards-the-tricorder-fall-2013/02586f6bbafae0cd921bd9671531cbf0_mas-s63f13.jpg
 file_type: image/jpeg
 image_metadata:
   caption: "Detail of the photograph \"Tricorder,\"\_showing a toy based on a device\
@@ -13,8 +13,10 @@ image_metadata:
   image-alt: A woman gazes at her tricorder, decoding the various signs and signals
     of life.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Tricorder
 uid: 02586f6b-bafa-e0cd-921b-d9671531cbf0
 ---
+Detail of the photograph "Tricorder." Original photograph by Trevor H on flickr.
